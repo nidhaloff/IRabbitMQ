@@ -1,6 +1,7 @@
 **-RabbitMQ Interface for Node JS:**
 
 the Class IRabbitMQ is a Wrapper class to make it abstracter and easier to use the RabbitMQ Patterns in a Complex Project
+please feel free to use it if it match your needs. if someone want to contribute and have an idea to improve it and extend the functionality I ll be happy to work with someone or Team on it
 
 **- How to use:**
 
