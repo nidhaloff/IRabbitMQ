@@ -12,7 +12,7 @@
 */
 
 
-const rabbitMQServer = 'amqp://evallx033.emea.porsche.biz:5672'; 
+const rabbitMQServer = 'localohst or host for your server'; 
 const amqplib = require('./node_modules/amqplib'); // amqplib is the Bibliothek that implement the AMQP Protocol
 const uuid = require('./node_modules/uuid/v4'); // lightweight library to generate a uuid 
 const _ = require('./node_modules/lodash'); // Library with Some useful functions to validate Types
